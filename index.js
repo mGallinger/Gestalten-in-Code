@@ -12,8 +12,6 @@ function draw() {
  fill(0);
 }
 
-    
-
 function mousePressed(){
   save('image.jpg');
 }
